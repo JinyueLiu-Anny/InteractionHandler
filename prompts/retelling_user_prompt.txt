@@ -1,0 +1,10 @@
+STORY (for reference)
+---------------------
+{context}
+
+CHILD'S RETELLING
+-----------------
+{response}
+
+Evaluate the child's retelling using the rubric.  
+Produce ONLY the JSON. 

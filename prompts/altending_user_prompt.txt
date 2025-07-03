@@ -1,0 +1,9 @@
+STORY CONTEXT
+-------------
+{context}
+
+CHILD'S ALTERNATIVE ENDING
+--------------------------
+{response}
+
+Evaluate the response with the rubric and output ONLY the JSON. 

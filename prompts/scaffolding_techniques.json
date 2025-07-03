@@ -1,0 +1,72 @@
+{
+  "co-participating": {
+    "description": "Join the child in producing a response when they need significant help",
+    "support_level": "high",
+    "examples": [
+      "That's an interesting thought about the hidden door! I'm thinking it might lead to a magical garden where the flowers can talk. What do you imagine we might find beyond this mysterious door?",
+      "Finding a map is exciting! I wonder if the red X marks where a magical key is buried or perhaps where a friendly dragon lives. What do you think this map might lead us to?",
+      "I like your idea about the characters feeling scared. I'm thinking they might also feel a bit curious, like when we see something new for the first time. Do you think their curiosity might be stronger than their fear?"
+    ],
+    "full_definition": "Co-participating: Join the child in producing a response when they need significant help by collaboratively exploring ideas, emotions or outcomes. This approach models thinking processes and shares the cognitive load."
+  },
+  "reducing_choices": {
+    "description": "Offer limited options when a child struggles",
+    "support_level": "high",
+    "examples": [
+      "That's interesting! I'm not sure whether to use my magic wand or try talking to the friendly monster first. Which do you think I should try?",
+      "I found two paths in the forest - one leads through the misty swamp where it's mysterious, and the other goes over the sunny hills where we can see far ahead. Which path should I take?",
+      "The glowing stone I found could either help us see in the dark cave or might help us understand animal language. Which power do you think would be more helpful for our adventure right now?"
+    ],
+    "full_definition": "Reducing choices: Offer limited options when a child struggles to generate a response independently. This narrows the decision space and makes it easier for children to engage with complex concepts."
+  },
+  "eliciting": {
+    "description": "Provide clear prompts for specific responses",
+    "support_level": "high",
+    "examples": [
+      "I noticed the wizard gave us this special compass for our journey. Why do you think he might have chosen this particular gift to help us?",
+      "The door only opened when I sang the special song. What part of the song do you think contained the magic that unlocked the door?",
+      "I felt something change when I stepped into the circle of mushrooms. What do you think happened to me when I entered this fairy ring?"
+    ],
+    "full_definition": "Eliciting: Provide clear prompts for specific responses when needed. This helps guide children toward relevant story elements and encourages deeper engagement with the narrative."
+  },
+  "generalizing": {
+    "description": "Connect the story to the child's past experiences",
+    "support_level": "low",
+    "examples": [
+      "I needed to be brave when facing the dragon, just like we sometimes need courage when trying something new for the first time. What helps you feel brave when you're doing something scary?",
+      "Finding new friends in the enchanted forest reminds me that making friends in real life sometimes means being kind and helpful. What do you think makes someone a good friend?",
+      "Solving the castle puzzle required me to try different approaches, like when we work on difficult problems at school. How do you figure things out when they seem tricky at first?"
+    ],
+    "full_definition": "Generalizing: Connect the story to the child's past experiences or to broader contexts. This helps children build bridges between story content and their own lives or knowledge."
+  },
+  "reasoning": {
+    "description": "Encourage the child to explain why things happen",
+    "support_level": "low",
+    "examples": [
+      "I noticed the magical flowers only bloom when the moonlight touches them. Why do you think nighttime is special for certain kinds of magic to work?",
+      "The friendly dragon helped us cross the river but wouldn't enter the castle grounds. What might be the reason this dragon stays away from the castle?",
+      "The secret message appeared on the map only after we held it near the fireplace. What do you think caused the hidden writing to become visible in the warmth?"
+    ],
+    "full_definition": "Reasoning: Encourage the child to explain why things happen or to explore causal relationships. This promotes critical thinking and deeper story comprehension."
+  },
+  "predicting": {
+    "description": "Ask the child to anticipate what might happen next",
+    "support_level": "low",
+    "examples": [
+      "Now that I've found this mysterious key with the star symbol, I'm wondering what special door or chest it might unlock on our adventure. What do you think we'll discover when we find where this key belongs?",
+      "The old map shows a path leading to the center of the misty forest where there's a circle of ancient stones. I'm excited to explore this place! What do you think might happen when we reach the stone circle?",
+      "The tiny fairy gave me a pouch of glittering dust before flying away. I'm curious about what might happen if I sprinkle some of this magical dust on the locked treasure chest. What do you think the dust might do?"
+    ],
+    "full_definition": "Predicting: Ask the child to anticipate what might happen next based on story events. This engages imagination and develops inference skills based on story comprehension."
+  },
+  "transition": {
+    "description": "Smoothly transition back to the story narrative",
+    "support_level": "low",
+    "examples": [
+      "That's a great observation! I carefully opened the old book, and the pages began to glow with mysterious symbols as I turned each one.",
+      "I like your idea about using the magic stone. I held the warm stone in my hand, and suddenly the forest path ahead became clearer through the fog.",
+      "Flying would definitely help us move faster! I felt the wind rising around me, lifting me gently off the ground as we continued our journey to the mountain."
+    ],
+    "full_definition": "Transition: A technique used to acknowledge the child's contribution and smoothly continue the story narrative. This helps maintain story flow while validating the child's input."
+  }
+}

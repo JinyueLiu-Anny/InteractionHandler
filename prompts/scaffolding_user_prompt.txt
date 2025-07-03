@@ -1,0 +1,17 @@
+Child's response to the question "{prompt}":
+"{child_input}"
+
+Story context before this interaction:
+"{context_before}"
+
+Story context after this interaction:
+"{context_after}"
+
+Target vocabulary word: "{target_vocab}"
+Vocabulary role: "{vocab_role}" (new, easy, or review)
+
+Available HIGH SUPPORT scaffolding techniques (for complexity scores 0-4):
+{high_support_info}
+
+Available LOW SUPPORT scaffolding techniques (for complexity scores 5-10):
+{low_support_info}
